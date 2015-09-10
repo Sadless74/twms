@@ -12,6 +12,17 @@ so GIS applications that support WMS protocol can access
 this tile set. Also, twms can act as a proxy and perform
 WMS requests to external services and serve the tile cache
 
+Documentation
+=============
+
+Documentation is in Wiki branch of the project.
+
+https://github.com/Komzpa/twms/blob/wiki/Installing.md
+https://github.com/Komzpa/twms/blob/wiki/Filters.md
+https://github.com/Komzpa/twms/blob/wiki/Config.md
+
+twms imlplements OGC WMS protocol, http://www.opengeospatial.org/standards/wms
+
 TODO
 ====
 
